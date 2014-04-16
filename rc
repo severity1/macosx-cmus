@@ -1,3 +1,6 @@
 set output_plugin=ao
 set softvol=true
 set softvol_state=100 100
+set continue=true
+set repeat=true
+set shuffle=true
